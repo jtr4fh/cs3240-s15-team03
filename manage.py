@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #jtrfh edit
-#rts9cs edit
+#rts9cs
 import os
 import sys
 
