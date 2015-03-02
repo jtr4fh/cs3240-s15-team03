@@ -1,0 +1,7 @@
+This file is for John Reagan's branch conflict resolution.
+
+<<<<<<< HEAD
+editing on the master branch.
+=======
+reagan-branch edit!!!
+>>>>>>> reagan-branch
